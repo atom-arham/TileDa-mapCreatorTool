@@ -13,6 +13,8 @@ Upcoming Features:
 - Export as JSON
 - Dark Mode
 
+How To Run:
+- Just Run the .Jar file
 
 ### Editor View 
  ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/tileDa0.3/screenshots/viewport1.png) 
