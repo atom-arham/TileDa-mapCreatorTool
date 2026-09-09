@@ -1,21 +1,18 @@
-## TileDA - Just a simple map creation tool
+## Getting Started
 
-> Paint your map on an X x Y grid and export it as a string of numbers, then import it into your 2D tile-based video game
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-# How it Works
-> Run the .Jar file
-> Paint your map in the Editor
-> Assign the numbers you want to associate with your assets. For example, 1 = water, 2 = grass, 0 = walls
-> Export
+## Folder Structure
 
-> This tool is meant to create map creation process faster for 2D RPG games
-> It exports as a .txt file containing an array of numbers. That represents your map. You can use tile mapping or tile based representation to create a map in your video game
+The workspace contains two folders by default, where:
 
-# Editor View 
- ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/editorView.png) 
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-# Exported File
-![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/export.png) 
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-# In Game
-![Image3](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/inGame.png)
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

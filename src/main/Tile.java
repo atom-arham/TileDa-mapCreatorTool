@@ -1,40 +1,28 @@
 package main;
 
-import java.awt.Color;
+import java.awt.image.BufferedImage;
 
 public class Tile {
-    private static final int TILE_SIZE = 16;
-    private int value; // 0-9 representing the tile's assigned number
-    private boolean selected;
+    private BufferedImage image;
+    private final int assetId;
     
-    public Tile() {
-        this.value = 0; // Default value
-        this.selected = false;
+    public Tile(BufferedImage image){
+        this(image, 0);
     }
-    
-    public int getTileSize() {
-        return TILE_SIZE;
+
+    public Tile(BufferedImage image, int assetId){
+        this.image = image;
+        this.assetId = assetId;
     }
-    
-    public int getValue() {
-        return value;
+    public BufferedImage getImage(){
+        return image;
     }
-    
-    public void setValue(int value) {
-        if (value >= 0 && value <= 9) {
-            this.value = value;
-        }
+    public void setImage(BufferedImage image){
+        this.image = image;
     }
-    
-    public boolean isSelected() {
-        return selected;
+
+    public int getAssetId(){
+        return assetId;
     }
-    
-    public void setSelected(boolean selected) {
-        this.selected = selected;
-    }
-    
-    public void clear() {
-        this.value = 0;
-    }
+
 }
