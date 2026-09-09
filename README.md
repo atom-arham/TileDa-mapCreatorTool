@@ -1,13 +1,27 @@
-##TileDa - Tile-Based Map Creation Tool
+# TileDa - Tile-Based Map Creation Tool
 
-# Editor View 
- ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/viewport1.png) 
+Features:
+- Paint Brush
+- Fill Bucket
+- Area Fill
+- Adjustable Grid
+- Zoom In and Out feature
+- Export as PNG
+- Asset Manager
 
-# Editor Features
- ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/features.png) 
+Upcoming Features:
+- Export as JSON
+- Dark Mode
 
-# Final File
-![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/tilemap.png) 
 
-# Empty Viewport
-![Image3](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/main/screenshots/image.png)
+### Editor View 
+ ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/tileDa0.3/screenshots/viewport1.png) 
+
+### Editor Features
+ ![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/tileDa0.3/screenshots/features.png) 
+
+### Final File
+![Image1](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/tileDa0.3/screenshots/tilemap.png) 
+
+### Empty Viewport
+![Image3](https://github.com/atom-arham/TileDa-mapCreatorTool/blob/tileDa0.3/screenshots/image.png)
