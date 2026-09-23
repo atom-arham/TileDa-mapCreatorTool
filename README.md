@@ -10,8 +10,9 @@ Features:
 - Asset Manager
 
 Upcoming Features:
-- Export as JSON
+- Export as JSON and txt
 - Dark Mode
+- Collision
 
 How To Run:
 - Just Run the .Jar file
